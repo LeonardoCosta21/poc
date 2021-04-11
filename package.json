@@ -1,0 +1,14 @@
+{
+  "name": "@jpedroes/poc-visualizacao-de-minucias-em-impressoes-digitais-de-um-m/3",
+  "main": "40444f52d5ec5f52@450.js",
+  "version": "450.0.0",
+  "homepage": "https://observablehq.com/@jpedroes/poc-visualizacao-de-minucias-em-impressoes-digitais-de-um-m/3",
+  "author": {
+    "name": "João Pedro",
+    "url": "https://observablehq.com/@jpedroes"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
